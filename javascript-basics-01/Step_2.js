@@ -4,6 +4,6 @@
     var city = "Beirut";
     
    
-        alert(name+"\r\n"+surname+"\r\n"+city);
+        alert("Name: "+name+"\r\n"+"Surname: "+surname+"\r\n"+"City: "+city);
       
     
