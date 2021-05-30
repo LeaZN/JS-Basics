@@ -1,6 +1,2 @@
-
-
-    var name = "Lea";
-    
-        alert("name");
-        
+var name= "Lea";
+alert (name);
